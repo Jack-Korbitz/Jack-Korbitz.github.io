@@ -4,5 +4,6 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-
+    - text: "Time Series"
+      href: Time_Series.html
       
