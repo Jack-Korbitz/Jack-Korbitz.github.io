@@ -1,0 +1,10 @@
+---
+title: "My Website"
+author: "Jack Korbitz"
+date: "2024-11-11"
+output: html_document
+---
+
+# A simple website for showcasing my work
+## Note the 6 lines of text abover are the YAML tags that are required for the website to work.
+### We will knit the RMD to HTML and then push the HTML to GitHub to host the website.
